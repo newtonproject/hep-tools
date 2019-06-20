@@ -22,4 +22,5 @@ setup(
     long_description = "",
     author = "xiawu",
     author_email = "xiawu@zeuux.org",
+    url = "https://github.com/xiawu/hep-tools",
     )
