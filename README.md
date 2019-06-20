@@ -1,19 +1,20 @@
 # Tools for HEP
 
-# Dependency
-If using MacOS, install pip first.
+## Dependency
+If using MacOS, install **pip** first.
+
 `
 sudo easy_install pip
 `
 
-# Installtion
+## Installtion
 `
 pip install heptools
 `
 
-# Usages
+## Usages
 
-## Generate the secp256r1 private key and public key
+### Generate the secp256r1 private key and public key
 `
 heptools -path private.key
 `
