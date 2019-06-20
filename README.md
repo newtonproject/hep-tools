@@ -1,7 +1,15 @@
 # Tools for HEP
 
+# Dependency
+If using MacOS, install pip first.
+`
+sudo easy_install pip
+`
+
 # Installtion
+`
 pip install heptools
+`
 
 # Usages
 
