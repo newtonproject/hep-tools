@@ -8,7 +8,7 @@ from setuptools import setup
 
 
 version = '1.0' 
-REQUIRES = ["fastecdsa"]
+REQUIRES = ["six", "fastecdsa"]
 
 setup(
     name = "heptools",
